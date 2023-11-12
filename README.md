@@ -20,3 +20,12 @@ Struktur dari direktori berisi 2 folder `Dataset` yang berisi kumpulan pdf putus
 ### Cara Penggunaan
 - Untuk mendapatkan dataset PDF putusan, anda dapat melakukan _clone repository_ ini atau mengunduhnya sebagai zip | git clone https://github.com/fauzanadrivano/Dataset-Narkotika_312_156
 - Ringkasan putusan dapat dilihat pada file `Overview.xlsx` dalam format yang lebih mudah dibaca.
+
+## Overview
+
+Didalam ringkasan `Overview` terdapat beberapa kolom mengenai putusan seperti Nomor Putusan, Lembaga Peradilan, Barang Bukti, dan Amar Putusan
+
+| Nomor Putusan | Lembaga Peradilan | Barang Bukti | Amar Putusan | 
+| --------- | -------- | --------- | -------- |
+| 404/Pid.Sus/2023/PN Llg | PN LUBUK LINGAU | 1 (satu) buah tas selempang kecil warna hijau merek Bovi | MENGADILI : 1. Menyatakan Terdakwa Suyatno Alias Dor Bin Jiman terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana |
+
