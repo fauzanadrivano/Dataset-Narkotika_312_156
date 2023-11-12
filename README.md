@@ -34,5 +34,5 @@ Didalam ringkasan `Overview` terdapat beberapa kolom mengenai putusan seperti No
 
 **Temu Kembali Informasi A**
 
-- Fauzan Adrivano Setiono (202010370311312) [@fauzanadrivano18](https://github.com/fauzanadrivano18)
-- Frederick Huisand Sutirto (202010370311156) [@huisand18](https://github.com/Huisand18)
+- Fauzan Adrivano Setiono (202010370311312)
+- Frederick Huisand Sutirto (202010370311156)
