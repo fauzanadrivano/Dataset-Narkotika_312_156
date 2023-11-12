@@ -27,5 +27,7 @@ Didalam ringkasan `Overview` terdapat beberapa kolom mengenai putusan seperti No
 
 | Nomor Putusan | Lembaga Peradilan | Barang Bukti | Amar Putusan | 
 | --------- | -------- | --------- | -------- |
-| 404/Pid.Sus/2023/PN Llg | PN LUBUK LINGAU | 1 (satu) buah tas selempang kecil warna hijau merek Bovi | MENGADILI : 1. Menyatakan Terdakwa Suyatno Alias Dor Bin Jiman terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana |
-
+| 404/Pid.Sus/2023/PN Llg | PN LUBUK LINGAU | 1 (satu) buah tas selempang kecil warna hijau merek Bovi.... | MENGADILI : 1. Menyatakan Terdakwa Suyatno Alias Dor Bin Jiman terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana.... |
+| 325/Pid.Sus/2023/PN Llg | PN LUBUK LINGAU |  1 (satu) bungkus plastik klip yang kristal putih shabu-shabudengan berat netto keseluruhan 0,108 Gram.... | MENGADILI:1. Menyatakan Terdakwa AGUS SALIM Bin ANWAR tersebut diatas, terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana.... |
+| 194/Pid.Sus/2023/PN Llg | PN LUBUK LINGAU | 1 (satu) plastik klip yang berisikan kristal putih yang diduga narkotika golongan I dalam bentuk bukan tanaman jenis sabu .... | Menyatakan Terdakwa Hendri Afriansyah Bin Ujang Sapri dan Terdakwa Ardiansyah Bin Puji terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana.... |
+| 377/Pid.Sus/2023/PN Llg | PN LUBUK LINGAU | 1 (satu) bungkus plastik klip bening yang berisikan kristal putih yang diduga narkotika jenis sabu dengan berat bruto 0,34.... | Menyatakan Terdakwa Randi Bin Jamali tersebut diatas, terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana .... |
