@@ -1,1 +1,22 @@
-# Dataset-Narkotika_312_156
+
+# Scraping Putusan Pengadilan Negeri Lubuk Lingau
+
+Project ini bertujuan untuk melakukan _scraping_ data putusan Narkotika dan Psikotropika pada tahun 2023, berdasarkan Pengadilan Negeri Lubuk Lingau. Data yang diambil berupa dokumen PDF putusan yang tersedia di
+**Website :**
+[putusan3.mahkamahagung.go.id](putusan3.mahkamahagung.go.id)
+
+## Authors
+
+**Temu Kembali Informasi A**
+
+- Fauzan Adrivano Setiono (202010370311312) [@fauzanadrivano18](https://github.com/fauzanadrivano18)
+- Frederick Huisand Sutirto (202010370311156) [@huisand18](https://github.com/Huisand18)
+
+
+## Dataset
+
+Struktur dari direktori berisi 2 folder `Dataset` yang berisi kumpulan pdf putusan dan `Overview` yang berisi ringkasan dari putusan yang didapatkan dalam format xlsx.
+
+### Cara Penggunaan
+- Untuk mendapatkan dataset PDF putusan, anda dapat melakukan _clone repository_ ini atau mengunduhnya sebagai zip | git clone https://github.com/fauzanadrivano/Dataset-Narkotika_312_156
+- Ringkasan putusan dapat dilihat pada file `Overview.xlsx` dalam format yang lebih mudah dibaca.
