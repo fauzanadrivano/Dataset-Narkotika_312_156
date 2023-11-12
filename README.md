@@ -5,6 +5,12 @@ Project ini bertujuan untuk melakukan _scraping_ data putusan Narkotika dan Psik
 **Website :**
 [putusan3.mahkamahagung.go.id](putusan3.mahkamahagung.go.id)
 
+## Hasil filter yang diterapkan
+<img src="image1.png"/>
+
+## Contoh PDF putusan
+<img src="image2.png"/>
+
 ## Authors
 
 **Temu Kembali Informasi A**
